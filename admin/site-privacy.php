@@ -93,7 +93,7 @@ function my_private_site_admin_site_privacy_section_data( $section_options ) {
 			'name'  => 'Admin Bar',
 			'id'    => 'jr_ps_admin_hide_admin_bar_enable',
 			'type'  => 'checkbox',
-			'after' => 'Hide Admin Bar',
+			'after' => 'Hide admin bar',
 		)
 	);
 	my_private_site_preload_cmb2_field_filter( 'jr_ps_admin_hide_admin_bar_enable', $handler_function );
