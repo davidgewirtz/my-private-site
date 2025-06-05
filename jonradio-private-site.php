@@ -3,7 +3,7 @@
 Plugin Name: My Private Site
 Plugin URI: http://zatzlabs.com/plugins/
 Description: Easily secure posts, pages, or your entire WordPress site by requiring visitors to login.
-Version: 3.1.1
+Version: 3.2
 Author: David Gewirtz
 Author URI: http://zatzlabs.com/plugins/
 License: GPLv2
